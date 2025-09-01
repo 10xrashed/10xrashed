@@ -12,6 +12,8 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
 </div>
+
+
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </div>
