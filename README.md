@@ -18,5 +18,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=10xrashed.10xrashed&"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/10xrashed/10xrashed/output/snake.svg" alt="Snake animation" />
