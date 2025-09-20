@@ -1,5 +1,6 @@
+<br clear="both">
 <div align="center">
-
+  
 # Hi Welcome to my Github
 
 <p>I'm <b>Rashed</b> a <b>10x Developer</p>
@@ -19,4 +20,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p>
+  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
 </div>
