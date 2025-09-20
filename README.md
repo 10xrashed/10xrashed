@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi! Welcome to my Github, I'm 10xRashed
+# Hi Welcome to my Github
 
-<p>I'm a <b>10x Developer.</b></p>
+<p>I'm <b>Rashed</b> a <b>10x Developer</p>
 
 <p>
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
