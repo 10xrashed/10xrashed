@@ -1,5 +1,5 @@
 <br clear="both">
-<div align="center">
+<div align="left">
   
 # Hi Welcome to my Github
 
