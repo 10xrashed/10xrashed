@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 
-  # 📊 GitHub Stats:
+  ### 📊 **GitHub Stats:**
   
  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
  
