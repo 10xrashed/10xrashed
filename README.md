@@ -1,14 +1,9 @@
 <div align="center">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
   
 # Hi Welcome to my Github
-
-<p>I'm <b>Rashed</b> a <b> Developer</p>
-
 <p>
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -28,8 +23,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
-
-  ### 📊 **GitHub Stats:**
   
  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
  
