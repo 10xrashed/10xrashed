@@ -1,4 +1,7 @@
 <br clear="both">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <div align="left">
   
 # Hi Welcome to my Github
@@ -24,8 +27,13 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p>
-
-
-  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
