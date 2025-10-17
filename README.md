@@ -7,7 +7,7 @@
   
 # Hi Welcome to my Github
 
-<p>I'm <b>Rashed</b> a <b>10x Developer</p>
+<p>I'm <b>Rashed</b> a <b> Developer</p>
 
 <p>
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
