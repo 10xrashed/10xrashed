@@ -22,7 +22,7 @@
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   
-![](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 
 
 
