@@ -19,10 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 
-![](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
- <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+![](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
+
+
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=Proudly%20building%20in%20public.%20%F0%9F%9B%A0%EF%B8%8F&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
 </div>
