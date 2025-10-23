@@ -19,10 +19,15 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-![](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+# GitHub Statistics
+
+| Top Languages | Streak Stats |
+|:-------------:|:------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![Streak Stats](https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3) |
+
+| GitHub Stats |
+|:------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true) |
 
 
 
