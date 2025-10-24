@@ -1,13 +1,43 @@
 <div align="center">
 <div>
   <a href="https://github.com/10xrashed">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=Hi%20Welcome%20to%20my%20Github%20%F0%9F%A7%94%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Github&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"/>
      </a>
 </div>
-  <p>
-    <a href="https://github.com/10xrashed"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F71DEB&center=true&vCenter=true&width=435&lines=I'm+Rashed;Cybersecurity+student+%40+AAU;I+love+building+software;Some+say+I'm+a+10x+developer+%F0%9F%98%8E" alt="Typing SVG" /></a> <br>
-<a href="https://github.com/10xrashed">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rashed;I+love+building+software;Cybersecurity+student+%40+AAU;Some+say+I'm+a+10x+developer+%F0%9F%98%8E;I+use+Arch+btw" alt="Typing SVG" /></a>
+ 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align='right'>
+      <a href="https://github.com/10xrashed">
+       <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+      </a>
+    </td>
+    <td rowspan=2 width='512px'>
+      <a href="https://github.com/10xrashed">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align='right'>
+      <a href="https://github.com/10xrashed">
+       <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div>
+  <a href="https://github.com/10xrashed">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=vue&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+       </a>
+</div>
+
+
+ <p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </a>
 <br>
     
@@ -27,36 +57,11 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
  </a>
 </p> 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align='right'>
-      <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=en&hide_border=true&order=1" />
-      </a>
-    </td>
-    <td rowspan=2 width='512px'>
-      <a href="https://github.com/10xrashed">
-        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=true&order=2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align='right'>
-      <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-<div>
-  <a href="https://github.com/10xrashed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-       </a>
-</div>
+
 
 <div> 
   <a href="https://github.com/10xrashed">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=Proudly%20building%20in%20public.%20%F0%9F%9B%A0%EF%B8%8F&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Proudly%20building%20in%20public.%20&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
          </a>
 </div>
