@@ -8,27 +8,28 @@
  
 <div align="center">
 
-<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td align="right" style="border: none; padding: 0; margin: 0;">
+    <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" style="display: block;" />
+        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" />
       </a>
     </td>
-    <td rowspan="2" width="512" style="border: none; padding: 0; margin: 0;">
+    <td rowspan=2 width='512px'>
       <a href="https://github.com/10xrashed">
-        <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" style="display: block;" />
+        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="right" style="border: none; padding: 0; margin: 0;">
+    <td align='right'>
       <a href="https://github.com/10xrashed">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="310" alt="languages graph" style="display: block;" />
+        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" />
       </a>
     </td>
   </tr>
 </table>
+
 
 </div>
 
@@ -37,14 +38,113 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=vue&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
        </a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+<div align="center">
+
+<table>
+  <tr>
+    <th>Front-End</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" />
+      <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Back-End</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Low-Level</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="Objective-C" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Tools</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="SSH" />
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+      <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Editors & IDEs</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
+      <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
+      <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="WebStorm" />
+      <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim" />
+      <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>Other</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
+      <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
+      <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" />
+      <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" />
+      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
- <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</a>
+
 <br>
-    
+     <p>
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
