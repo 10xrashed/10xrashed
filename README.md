@@ -6,27 +6,31 @@
 </div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rashed;I+love+building+software;Cybersecurity+student+%40+AAU;Some+say+I'm+a+10x+developer+%F0%9F%98%8E;I+use+Arch+btw" alt="Typing SVG" /></a>
  
-<table style="border-collapse: collapse; border: none;">
+<div align="center">
+
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align='right'>
+    <td align="right" style="border: none; padding: 0; margin: 0;">
       <a href="https://github.com/10xrashed">
-       <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+        <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" style="display: block;" />
       </a>
     </td>
-    <td rowspan=2 width='512px'>
+    <td rowspan="2" width="512" style="border: none; padding: 0; margin: 0;">
       <a href="https://github.com/10xrashed">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="500" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" style="display: block;" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align='right'>
+    <td align="right" style="border: none; padding: 0; margin: 0;">
       <a href="https://github.com/10xrashed">
-       <img src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="310" alt="languages graph" style="display: block;" />
       </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 <div>
   <a href="https://github.com/10xrashed">
