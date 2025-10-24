@@ -6,6 +6,11 @@
 </div>
   <p>
     <a href="https://github.com/10xrashed"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F71DEB&center=true&vCenter=true&width=435&lines=I'm+Rashed;Cybersecurity+student+%40+AAU;I+love+building+software;Some+say+I'm+a+10x+developer+%F0%9F%98%8E" alt="Typing SVG" /></a> <br>
+<a href="https://github.com/10xrashed">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</a>
+<br>
+    
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -18,7 +23,9 @@
   <a href="https://discordapp.com/users/1385293216667926629" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
+   <a href="https://github.com/10xrashed">
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
+ </a>
 </p> 
 <table style="border-collapse: collapse; border: none;">
   <tr>
