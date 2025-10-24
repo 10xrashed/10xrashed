@@ -15,7 +15,7 @@
     </td>
     <td rowspan=2 width='512px'>
       <a href="https://github.com/10xrashed">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" height="500" alt="languages graph"  />
       </a>
     </td>
   </tr>
