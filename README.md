@@ -2,7 +2,10 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=Hi%20Welcome%20to%20my%20Github%20%F0%9F%A7%94%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
 </div>
-<p>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F71DEB&center=true&vCenter=true&random=true&width=435&lines=I'm+Rashed;Cybersecurity+student+%40+AAU;I+love+building+software;Some+say+I'm+a+10x+developer+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  
+  <p>
   <a href="https://www.linkedin.com/in/10xrashed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
