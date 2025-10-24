@@ -27,7 +27,7 @@
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" />
+        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=en&hide_border=true&order=1" />
       </a>
     </td>
     <td rowspan=2 width='512px'>
@@ -39,7 +39,7 @@
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=en&hide_border=true&order=1" />
+        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" />
       </a>
     </td>
   </tr>
