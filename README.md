@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F71DEB&center=true&vCenter=true&width=435&lines=I'm+Rashed;Cybersecurity+student+%40+AAU;I+love+building+software;Some+say+I'm+a+10x+developer+%F0%9F%98%8E" alt="Typing SVG" /></a>
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
