@@ -21,6 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 
+# 📊 GitHub Stats:
 
 <table>
   <tr>
