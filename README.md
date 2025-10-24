@@ -32,20 +32,23 @@
     </td>
     <td rowspan=2 width='512px'>
       <a href="https://github.com/10xrashed">
-        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&layout=compact&show_icons=true&theme=aura&hide_border=true&count_private=true" />
+        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=true&order=2" />
       </a>
     </td>
   </tr>
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
+        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=en&hide_border=true&order=1" />
       </a>
     </td>
   </tr>
 </table>
 
+<div>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=Proudly%20building%20in%20public.%20%F0%9F%9B%A0%EF%B8%8F&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
