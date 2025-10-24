@@ -1,9 +1,7 @@
 <div align="center">
-<div>
-  <a href="https://github.com/10xrashed">
- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Github&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"/>
-     </a>
-</div>
+<div>  <a href="https://github.com/10xrashed">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%90%A7&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  </a> </div>
     <a href="https://github.com/10xrashed">
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rashed;I+love+building+software;Cybersecurity+student+%40+AAU;Some+say+I'm+a+10x+developer+%F0%9F%98%8E;I+use+Arch+btw" alt="Typing SVG" />
     </a>
@@ -170,8 +168,6 @@
 
 
 
-<div> 
-  <a href="https://github.com/10xrashed">
- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Proudly%20building%20in%20public.%20&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
-         </a>
-</div>
+<div>   <a href="https://github.com/10xrashed">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=proudly%20build%20in%20public%20%F0%9F%90%8E&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  </a> </div>
