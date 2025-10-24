@@ -19,13 +19,28 @@
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
 </p> 
 
-| Top Languages | Streak Stats |
-|:-------------:|:------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![Streak Stats](https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3) |
 
-| GitHub Stats |
-|:------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xrashed&theme=aura&hide_border=true&include_all_commits=true&count_private=true) |
+<table>
+  <tr>
+    <td align='right'>
+      <a href="https://github.com/10xrashed">
+        <img height='196px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xrashed&layout=compact&show_icons=true&theme=aura&hide_border=true&count_private=true" />
+      </a>
+    </td>
+    <td rowspan=2 width='512px'>
+      <a href="https://github.com/10xrashed">
+        <img width='100%' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align='right'>
+      <a href="https://github.com/10xrashed">
+        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
