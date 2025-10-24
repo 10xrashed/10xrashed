@@ -4,7 +4,9 @@
  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Github&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"/>
      </a>
 </div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rashed;I+love+building+software;Cybersecurity+student+%40+AAU;Some+say+I'm+a+10x+developer+%F0%9F%98%8E;I+use+Arch+btw" alt="Typing SVG" /></a>
+    <a href="https://github.com/10xrashed">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Rashed;I+love+building+software;Cybersecurity+student+%40+AAU;Some+say+I'm+a+10x+developer+%F0%9F%98%8E;I+use+Arch+btw" alt="Typing SVG" />
+    </a>
  
 <div align="center">
 
@@ -38,16 +40,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=vue&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
        </a>
 </div>
+  <a href="https://github.com/10xrashed">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
+    <a href="https://github.com/10xrashed">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 <div align="center">
 
 <table>
+  <a href="https://github.com/10xrashed">
   <tr>
     <th>Front-End</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
@@ -56,12 +61,12 @@
       <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
       <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" />
       <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
-    </td>
+     </a>  </td>
   </tr>
 
   <tr>
     <th>Back-End</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
       <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
@@ -69,31 +74,31 @@
       <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
       <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
       <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-    </td>
+     </a> </td>
   </tr>
 
   <tr>
     <th>Low-Level</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
       <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
       <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="Objective-C" />
-    </td>
+   </a>  </td>
   </tr>
 
   <tr>
     <th>Databases</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-    </td>
+   </a>   </td>
   </tr>
 
   <tr>
     <th>Tools</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
@@ -101,12 +106,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="SSH" />
       <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
       <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
-    </td>
+   </a>  </td>
   </tr>
 
   <tr>
     <th>Editors & IDEs</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
       <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
       <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" />
@@ -114,12 +119,12 @@
       <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim" />
       <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" />
       <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
-    </td>
+    </a> </td>
   </tr>
 
   <tr>
     <th>Operating Systems</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
       <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
     </td>
@@ -127,7 +132,7 @@
 
   <tr>
     <th>Other</th>
-    <td>
+    <td>  <a href="https://github.com/10xrashed">
       <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
       <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
       <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" />
@@ -135,13 +140,14 @@
       <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" />
     </td>
   </tr>
+      </a>
 </table>
 
 </div>
 
-
+  <a href="https://github.com/10xrashed">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+  </a>
 
 <br>
      <p>
