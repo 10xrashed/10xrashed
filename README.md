@@ -180,21 +180,23 @@ I thrive on solving complex problems and creating software that's not just funct
 </div>
  
   <a href="https://www.linkedin.com/in/10xrashed/" >
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/10xrashed/" >
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="37" alt="instagram logo"  />
   </a>
   <a href="https://www.pinterest.com/search/pins/?q=coming%20soon" >
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="43" height="37" alt="tryhackme logo"  />
 
   <a href="https://discordapp.com/users/1385293216667926629" >
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="37" alt="discord logo"  />
   </a>
   <br>
    <a href="https://github.com/10xrashed">
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
  </a>
+
+
 
 
 <div>   <a href="https://github.com/10xrashed">
