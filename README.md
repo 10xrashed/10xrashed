@@ -30,9 +30,7 @@ I thrive on solving complex problems and creating software that's not just funct
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </a>
 <div align="left">
-  
-## 📊 GitHub Stats
-
+ <h2>  📊 GitHub Stats </h2> 
 </div>
 
 <div align="center">
