@@ -71,8 +71,9 @@ I thrive on solving complex problems and creating software that's not just funct
     <a href="https://github.com/10xrashed">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
-<div align="center">
 
+<div align="left">
+ <a href="https://github.com/10xrashed"> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" align="right" width="25%" /></a>
 <table>
   <a href="https://github.com/10xrashed">
   <tr>
