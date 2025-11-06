@@ -5,7 +5,7 @@
   </a> </div>
     <a href="https://github.com/10xrashed">
    
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rashed+%F0%9F%91%8B;Full-Stack+Developer+%2B+Cybersecurity;Building+secure%2C+scalable+applications;Cybersecurity+Student+%40+AAU;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=88AA02&background=0D111700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rashed+%F0%9F%91%8B;Full-Stack+Developer+%2B+Cybersecurity;Building+secure%2C+scalable+applications;Cybersecurity+Student+%40+AAU;Always+learning%2C+always+building" />
 </a>
 <div align="left">
 <h2>About Me :</h2>
