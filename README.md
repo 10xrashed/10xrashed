@@ -29,6 +29,11 @@ I thrive on solving complex problems and creating software that's not just funct
 <div align="left">
  <h2>  📊 GitHub Stats </h2> 
 </div>
+<div>
+  <a href="https://github.com/10xrashed">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=merko&area=false&order=5&hide_border=true&hide_title=true"  />
+       </a>
+</div>
 
 <div align="center">
 
@@ -53,15 +58,7 @@ I thrive on solving complex problems and creating software that's not just funct
     </td>
   </tr>
 </table>
-
-
-</div>
-
 <div>
-  <a href="https://github.com/10xrashed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=merko&area=false&order=5&hide_border=true&hide_title=true"  />
-       </a>
-</div>
     <a href="https://github.com/10xrashed">
   <img style="150%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=55&fontAlignY=60&stroke=-&desc=Tech%20Stack&descSize=31&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
   </a>
