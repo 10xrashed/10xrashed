@@ -1,7 +1,7 @@
 
 <div align="center">
 <div>  <a href="https://github.com/10xrashed">
- <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
   </a> </div>
     <a href="https://github.com/10xrashed">
    
@@ -39,19 +39,19 @@ I thrive on solving complex problems and creating software that's not just funct
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&order=3" />
+        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" />
       </a>
     </td>
     <td rowspan=2 width='512px'>
       <a href="https://github.com/10xrashed">
-        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=vue-dark&hide_border=true&order=2" />
+        <img width='100%' src="https://github-readme-stats.vercel.app/api/top-langs?username=10xrashed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=true&order=2" />
       </a>
     </td>
   </tr>
   <tr>
     <td align='right'>
       <a href="https://github.com/10xrashed">
-        <img height='196px' src="https://github-readme-stats.vercel.app/api?username=10xrashed&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=true&order=1" />
+        <img height='196px' src="https://streak-stats.demolab.com?user=10xrashed&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" />
       </a>
     </td>
   </tr>
@@ -62,14 +62,14 @@ I thrive on solving complex problems and creating software that's not just funct
 
 <div>
   <a href="https://github.com/10xrashed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=vue&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=merko&area=false&order=5&hide_border=true&hide_title=true"  />
        </a>
 </div>
   <a href="https://github.com/10xrashed">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
     <a href="https://github.com/10xrashed">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="150%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=55&fontAlignY=60&stroke=-&desc=Tech%20Stack&descSize=31&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
 </div>
 
 <div align="center">
