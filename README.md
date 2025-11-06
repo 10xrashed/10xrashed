@@ -26,9 +26,6 @@ I thrive on solving complex problems and creating software that's not just funct
   <li>🐧 Linux enthusiast (Arch user)</li>
 </ul>
 </div>
-<a href="https://github.com/10xrashed">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </a>
 <div align="left">
  <h2>  📊 GitHub Stats </h2> 
 </div>
@@ -65,11 +62,9 @@ I thrive on solving complex problems and creating software that's not just funct
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=merko&area=false&order=5&hide_border=true&hide_title=true"  />
        </a>
 </div>
-  <a href="https://github.com/10xrashed">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
     <a href="https://github.com/10xrashed">
   <img style="150%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=55&fontAlignY=60&stroke=-&desc=Tech%20Stack&descSize=31&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+  </a>
 </div>
 
 <div align="center">
@@ -171,15 +166,11 @@ I thrive on solving complex problems and creating software that's not just funct
 
 </div>
 
-  <a href="https://github.com/10xrashed">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </a>
-
-<br>
 <div align="left">
 <h2> 🤝 Connect With Me </h2>
 </div>
- 
+
+ <div align="center">
   <a href="https://www.linkedin.com/in/10xrashed/" >
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="37" alt="linkedin logo"  />
   </a>
@@ -196,7 +187,7 @@ I thrive on solving complex problems and creating software that's not just funct
    <a href="https://github.com/10xrashed">
   <img src="https://komarev.com/ghpvc/?username=10xrashed&color=blueviolet&style=for-the-badge&"  />
  </a>
-
+</div>
 
 
 
