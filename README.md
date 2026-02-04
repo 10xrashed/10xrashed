@@ -26,6 +26,7 @@ I thrive on solving complex problems and creating software that's not just funct
   <li>🐧 Linux enthusiast (Arch user)</li>
 </ul>
 </div>
+<!--
 <div align="left">
  <h2>  📊 GitHub Stats </h2> 
 </div>
@@ -34,9 +35,7 @@ I thrive on solving complex problems and creating software that's not just funct
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10xrashed&radius=16&theme=merko&area=false&order=5&hide_border=true&hide_title=true"  />
        </a>
 </div>
-
 <div align="center">
-
 <table>
   <tr>
     <td align='right'>
@@ -57,7 +56,8 @@ I thrive on solving complex problems and creating software that's not just funct
       </a>
     </td>
   </tr>
-</table>
+</table> 
+-->
 <div>
     <a href="https://github.com/10xrashed">
   <img style="150%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=55&fontAlignY=60&stroke=-&desc=Tech%20Stack&descSize=31&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
