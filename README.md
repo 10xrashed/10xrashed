@@ -187,7 +187,9 @@ I thrive on solving complex problems and creating software that's not just funct
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="37" alt="discord logo"  />
   </a>
 </div>
-
+<div>   <a href="https://github.com/10xrashed">
+  <img style="100%" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png"  />
+  </a> </div>
 
 <div align="left">
 <h2>💬 Live Guestbook</h2>
@@ -200,6 +202,4 @@ I thrive on solving complex problems and creating software that's not just funct
 </div>
 
 
-<div>   <a href="https://github.com/10xrashed">
-  <img style="100%" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png"  />
-  </a> </div>
+
