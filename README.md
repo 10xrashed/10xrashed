@@ -1,4 +1,3 @@
-
 <div align="center">
 <div>  <a href="https://github.com/10xrashed">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
@@ -171,7 +170,6 @@ I thrive on solving complex problems and creating software that's not just funct
   
  </a>
  </div>
-
 <h2> 🤝 Connect With Me </h2>
 </div>
 
@@ -191,8 +189,18 @@ I thrive on solving complex problems and creating software that's not just funct
 </div>
 
 
+<div align="left">
+<h2>💬 Live Guestbook</h2>
+<p>⬇️ <b>Click the image below to leave a message!</b> ⬇️</p>
+</div>
+
+<div align="center">
+<a href="https://chat.getloli.com/room/@10xrashed">
+  <img src="https://chat.getloli.com/room/@10xrashed/svg?width=800&height=280&limit=20&theme=light&title=%20Rashed's%20Guestbook&fontSize=13" alt="GitHub Guestbook" />
+</a>
+</div>
+
 
 <div>   <a href="https://github.com/10xrashed">
   <img style="100%" src="https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png"  />
   </a> </div>
-
