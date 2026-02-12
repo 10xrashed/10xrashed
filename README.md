@@ -191,7 +191,6 @@ I thrive on solving complex problems and creating software that's not just funct
 
 <div align="left">
 <h2>💬 Live Guestbook</h2>
-<p>⬇️ <b>Click the image below to leave a message!</b> ⬇️</p>
 </div>
 
 <div align="center">
